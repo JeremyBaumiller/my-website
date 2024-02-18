@@ -92,3 +92,13 @@ a:hover,a.active{
     color: rgb(125, 136, 146);
     font-size: 60px;
 }
+article {
+    border: 13px solid black;
+    padding: 2rem; 
+    margin: 1rem;
+    border-radius: 1%;
+    text-align: center;
+    border-style: groove;
+}
+
+
