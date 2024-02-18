@@ -1,5 +1,12 @@
 body {
     background-color: rgb(250, 252, 250);
+    background-image: url(record.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+
 }
 h1 {
     text-decoration: underline;
@@ -78,13 +85,10 @@ nav ul li a{
     }
 a:hover,a.active{
     background: none;
-
 }
-
 }
 
 .icon{
     color: rgb(125, 136, 146);
     font-size: 60px;
-    
 }
